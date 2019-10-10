@@ -14,6 +14,7 @@ Identifier | Value | Description
 None | 0 | 
 TigerXbox | 1 | 
 TigerPsn | 2 | 
+TigerSteam | 3 | 
 TigerBlizzard | 4 | 
 TigerDemon | 10 | 
 BungieNext | 254 | 
