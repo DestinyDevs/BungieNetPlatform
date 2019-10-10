@@ -1811,6 +1811,7 @@ var CreateBungieProfileRequest = function(n, t, i, r, u, f, e, o, s) {
 				n[n.None = 0] = "None";
 				n[n.TigerXbox = 1] = "TigerXbox";
 				n[n.TigerPsn = 2] = "TigerPsn";
+				n[n.TigerSteam = 3] = "TigerSteam";
 				n[n.TigerBlizzard = 4] = "TigerBlizzard";
 				n[n.TigerDemon = 10] = "TigerDemon";
 				n[n.BungieNext = 254] = "BungieNext";
