@@ -225,6 +225,7 @@ Facebook | 5
 Google | 8
 Windows | 9
 DemonId | 10
+Steam | 12
 BattleNetId | 14
 
 ## <a name="BungieMembershipType"></a>BungieMembershipType
