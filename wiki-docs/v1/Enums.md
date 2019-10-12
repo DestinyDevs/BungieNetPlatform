@@ -225,6 +225,7 @@ Facebook | 5
 Google | 8
 Windows | 9
 DemonId | 10
+Steam | 12
 BattleNetId | 14
 
 ## <a name="BungieMembershipType"></a>BungieMembershipType
@@ -233,6 +234,7 @@ Name | Value
 None | 0
 TigerXbox | 1
 TigerPsn | 2
+TigerSteam | 3
 TigerBlizzard | 4
 TigerDemon | 10
 BungieNext | 254
